@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I LOVE statistics and machine learning and optimization.
+
 <!--
 **d-dof/d-dof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
